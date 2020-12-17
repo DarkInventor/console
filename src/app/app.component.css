@@ -1,0 +1,10 @@
+div {
+    position: absolute;
+    width: 2040px;
+    height: 650px;
+    left: 0px;
+    top: 0px;
+    /* background: url(https://images.pexels.com/photos/176851/pexels-photo-176851.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500); */
+    background: #02051B;
+    /* border-radius: 10px; */
+}

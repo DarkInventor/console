@@ -1,0 +1,26 @@
+p {
+    position: absolute;
+    width: 900px;
+    height: 20px;
+    left: 237px;
+    top: 595px;
+    
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 33px;
+    text-align: center;
+    color: #ffffff;
+    
+  }
+
+  hr {
+    position: absolute;
+    width: 977px;
+    height: 0px;
+    left: 227px;
+    top: 570px;
+    
+    border: 1px solid #989898;
+  }

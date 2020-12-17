@@ -1,0 +1,150 @@
+div.c1:hover{
+    -moz-box-shadow: 0 0 10px #ccc;
+    -webkit-box-shadow: 0 0 10px #ccc;
+    box-shadow: 0 0 10px #ccc;
+}
+
+div.c2:hover{
+    -moz-box-shadow: 0 0 10px #ccc;
+    -webkit-box-shadow: 0 0 10px #ccc;
+    box-shadow: 0 0 10px #ccc;
+}
+
+div.c3:hover{
+    -moz-box-shadow: 0 0 10px #ccc;
+    -webkit-box-shadow: 0 0 10px #ccc;
+    box-shadow: 0 0 10px #ccc;
+}
+
+div.c4:hover{
+    -moz-box-shadow: 0 0 10px #ccc;
+    -webkit-box-shadow: 0 0 10px #ccc;
+    box-shadow: 0 0 10px #ccc;
+}
+
+div.c5:hover{
+    -moz-box-shadow: 0 0 10px #ccc;
+    -webkit-box-shadow: 0 0 10px #ccc;
+    box-shadow: 0 0 10px #ccc;
+}
+.c1 {
+    position: absolute;
+    width: 333px;
+    height: 358px;
+    left: 40px;
+    top: 135px;
+    background: url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.skqrHl9dn3SygvYfZMgFTgHaIG%26pid%3DApi&f=1);
+    box-shadow: inset 0px 4px 10px 5px rgba(255, 255, 255, 0.25);
+    border-radius: 25px;
+}
+
+.p1{
+    position: absolute;
+    left: 180px;
+    font-size: larger;
+    top: 500px;
+    color: #ffffff;
+    font-family: Candara;
+    /* box-shadow: inset 0px 4px 10px 5px rgba(0, 0, 0, 0.582); */
+}
+
+.a1 {
+    color: white;
+}
+
+.c2 {
+    position: absolute;
+    width: 333px;
+    height: 358px;
+    left: 450px;
+    top: 135px;
+
+    background: url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.7eyP5KaCZ6rSxFf3uXpMDgHaEU%26pid%3DApi&f=1);
+    box-shadow: inset 0px 4px 10px 5px rgba(255, 255, 255, 0.25);
+    border-radius: 25px;
+}
+
+.p2{
+    position: absolute;
+    left: 550px;
+    font-size: larger;
+    top: 500px;
+    font-family: Candara;
+    color: #ffffff;
+    /* color: #ffffff; */
+    /* box-shadow: inset 0px 4px 10px 5px rgba(255, 255, 255, 0.25); */
+}
+
+
+.c3 {
+    position: absolute;
+    width: 333px;
+    height: 358px;
+    left: 860px;
+    top: 135px;
+
+    background: url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.Fpy7HbsWRz7WQCRhHVDhFAHaHa%26pid%3DApi&f=1);
+    box-shadow: inset 0px 4px 10px 5px rgba(255, 255, 255, 0.25);
+    border-radius: 25px;
+}
+
+.p3{
+    position: absolute;
+    left: 985px;
+    font-size: larger;
+    top: 500px;
+    color: #ffffff;
+    font-family: Candara;
+    /* box-shadow: inset 0px 4px 10px 5px rgba(255, 255, 255, 0.25); */
+}
+
+.c4 {
+    position: absolute;
+    width: 333px;
+    height: 358px;
+    left: 1270px;
+    top: 135px;
+    background: url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.lq8_X_rHcrhdftwIZi14qQHaDe%26pid%3DApi%26h%3D160&f=1);
+    box-shadow: inset 0px 4px 10px 5px rgba(255, 255, 255, 0.25);
+    border-radius: 25px;
+}
+
+.p4{
+    position: absolute;
+    left: 1400px;
+    font-size: larger;
+    top: 500px;
+    color: #ffffff;
+    font-family: Candara;
+    /* box-shadow: inset 0px 4px 10px 5px rgb(255, 255, 255, 0.25); */
+}
+
+.a4 {
+    color: white;
+}
+
+.c5 {
+    position: absolute;
+    width: 333px;
+    height: 358px;
+    left: 1680px;
+    top: 135px;
+
+    background: url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.XxGQN8T2C1gSCuKTAhKWEQAAAA%26pid%3DApi%26h%3D160&f=1);
+    box-shadow: inset 0px 4px 10px 5px rgba(255, 255, 255, 0.25);
+    border-radius: 25px;
+}
+
+.p5{
+    position: absolute;
+    left: 1820px;
+    font-size: larger;
+    top: 500px;
+    color: #ffffff;
+    font-family: Candara;
+    /* box-shadow: inset 0px 4px 10px 5px rgb(255, 255, 255, 0.25); */
+}
+
+.a5 {
+    color: white;
+}
